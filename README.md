@@ -1,1 +1,3 @@
-# QMoE
+# Q-MoE: Connector for MLLMs with Text-Driven Routing
+
+Code is coming soon...
